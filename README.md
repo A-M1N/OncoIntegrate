@@ -4,6 +4,21 @@ A comprehensive oncology research data platform combining OMOP standardization w
 
 ## Architecture
 
+The following diagram illustrates the overall architecture of OncoIntegrate,
+from data ingestion through ETL, dual-layer storage, service APIs, and the
+research dashboard.
+
+![Architecture](docs/OncoIntegrate_System_Architecture.png)
+
+
+## Data Flow
+
+A detailed explanation of how data moves through the platform,
+including ETL transformation, OMOP standardization, and cancer-specific
+enrichment, can be found in
+
+![DataFlow](docs/End-to-End_ETL_Workflow.png)
+
 ### ETL Layer
 - REDCap eCRF data extraction
 - OMOP concept mapping & standardization
@@ -31,20 +46,20 @@ A comprehensive oncology research data platform combining OMOP standardization w
 ## Quick Start
 
 ### Docker (Recommended)
-\`\`\`bash
+
 docker-compose up
 # Frontend: http://localhost:3000
 # Backend: http://localhost:8000
-\`\`\`
+
 
 ### Local Development
-\`\`\`bash
+
 # Backend
 python manage.py runserver
 
 # Frontend (in separate terminal)
 cd frontend && npm run dev
-\`\`\`
+
 
 ## API Documentation
 
@@ -74,3 +89,11 @@ See `api_docs.py` for complete endpoint documentation.
 - AdverseEvent (toxicity, grade, resolution)
 - ClinicalTrial
 - CancerCohort
+
+  
+## Screenshots
+
+![Etl-Status](docs/screenshots/Etl-status.png)
+![patients](docs/screenshots/patients.png)
+![cohort-analytics](docs/screenshots/cohort-analytics.png)
+![patient](docs/screenshots/patient.png)

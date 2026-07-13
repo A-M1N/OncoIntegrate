@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "TEST_001",
+    "drug_1_name": "Pemetrexed",
+    "drug_2_name": "Carboplatin",
+    "treatment_start_date": "2023-06-01",
+    "treatment_end_date": "2023-08-01",
+    "treatment_response": "PR",
+    "completed_cycles": 4
+  },
+  {
+    "record_id": "TEST_002",
+    "drug_1_name": "Nivolumab",
+    "treatment_start_date": "2022-02-01",
+    "treatment_response": "SD",
+    "completed_cycles": 2
+  }
+]

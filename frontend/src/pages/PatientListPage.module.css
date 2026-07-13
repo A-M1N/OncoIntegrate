@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.container h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+}
+
+.totalCount {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.totalCount span {
+  font-weight: bold;
+  color: #3498db;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background-color: #ecf0f1;
+}
+
+.table th {
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.row {
+  border-top: 1px solid #ecf0f1;
+  transition: background-color 0.2s;
+}
+
+.row:hover {
+  background-color: #f9f9f9;
+}
+
+.table td {
+  padding: 12px;
+  font-size: 14px;
+}
+
+.center {
+  text-align: center;
+}
+
+.link {
+  color: #3498db;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: #2980b9;
+}
+
+@media (max-width: 768px) {
+  .table th,
+  .table td {
+    padding: 8px;
+    font-size: 12px;
+  }
+}

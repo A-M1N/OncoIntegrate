@@ -1,0 +1,54 @@
+.navbar {
+  background-color: #006192;
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 0;
+}
+
+.navContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  transition: color 0.3s;
+}
+
+.logo:hover {
+  color: #3498db;
+}
+
+.navLinks {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+
+.link {
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #3498db;
+}
+
+@media (max-width: 768px) {
+  .navContent {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .navLinks {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+}

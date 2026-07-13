@@ -1,0 +1,15 @@
+[
+  {
+    "record_id": "TEST_001",
+    "ae_event_name": "Neuropathy",
+    "ae_date": "2023-07-01",
+    "ae_grade": "2",
+    "treatment_start_date": "2023-06-01"
+  },
+  {
+    "record_id": "TEST_002",
+    "ae_event_name": "Fatigue",
+    "ae_date": "2022-03-01",
+    "ae_grade": "1"
+  }
+]

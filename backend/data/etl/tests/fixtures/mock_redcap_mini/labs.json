@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "TEST_001",
+    "lab_code": "2160-0",
+    "lab_name": "Creatinine",
+    "lab_date": "2023-06-01",
+    "lab_result": "1.2",
+    "lab_unit": "mg/dL"
+  },
+  {
+    "record_id": "TEST_002",
+    "lab_code": "718-7",
+    "lab_name": "Hemoglobin",
+    "lab_date": "2022-02-01",
+    "lab_result": "13.5",
+    "lab_unit": "g/dL"
+  }
+]

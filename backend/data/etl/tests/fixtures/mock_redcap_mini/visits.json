@@ -1,0 +1,12 @@
+[
+  {
+    "record_id": "TEST_001",
+    "visit_type": "Baseline Visit",
+    "visit_date": "2023-05-20"
+  },
+  {
+    "record_id": "TEST_002",
+    "visit_type": "Outpatient",
+    "visit_date": "2022-01-15"
+  }
+]

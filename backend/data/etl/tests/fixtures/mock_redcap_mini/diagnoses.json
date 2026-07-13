@@ -1,0 +1,20 @@
+[
+  {
+    "record_id": "TEST_001",
+    "cancer_type_code": "C34.9",
+    "cancer_type_name": "Lung Cancer",
+    "diagnosis_date": "2023-05-15",
+    "cancer_stage": "III",
+    "cancer_histology": "Adenocarcinoma",
+    "mutation_status": "EGFR+"
+  },
+  {
+    "record_id": "TEST_002",
+    "cancer_type_code": "C50.9",
+    "cancer_type_name": "Breast Cancer",
+    "diagnosis_date": "2022-01-10",
+    "cancer_stage": "II",
+    "cancer_histology": "Ductal carcinoma",
+    "mutation_status": ""
+  }
+]

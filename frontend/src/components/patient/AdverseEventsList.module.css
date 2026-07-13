@@ -1,0 +1,90 @@
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+}
+
+.card h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.noData {
+  padding: 24px;
+  text-align: center;
+  color: #7f8c8d;
+  font-style: italic;
+  background: #f9f9f9;
+  border-radius: 6px;
+}
+
+.eventsList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.eventItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background: #f9f9f9;
+  border-radius: 6px;
+  border-left: 4px solid #e74c3c;
+  transition: all 0.2s;
+}
+
+.eventItem:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.eventContent {
+  flex: 1;
+}
+
+.eventName {
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  color: #2c3e50;
+  font-size: 16px;
+}
+
+.eventDate {
+  font-size: 12px;
+  color: #7f8c8d;
+  margin: 0;
+}
+
+.grade {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 12px;
+  white-space: nowrap;
+  margin-left: 16px;
+}
+
+.grade1 {
+  background: #d5f4e6;
+  color: #27ae60;
+}
+.grade2 {
+  background: #d6eaf8;
+  color: #3498db;
+}
+.grade3 {
+  background: #fdeaa7;
+  color: #f39c12;
+}
+.grade4 {
+  background: #fadbd8;
+  color: #e74c3c;
+}
+.grade5 {
+  background: #c7254e;
+  color: white;
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "record_id": "PATIENT_0001",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "EW",
+    "date_of_birth": "1958-06-01",
+    "gender": "Female",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0002",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "LK",
+    "date_of_birth": "1956-11-03",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0003",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "AB",
+    "date_of_birth": "1996-04-13",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0004",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "WT",
+    "date_of_birth": "1960-07-17",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0005",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "OI",
+    "date_of_birth": "1979-10-11",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0006",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "DI",
+    "date_of_birth": "1943-07-05",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0007",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "FE",
+    "date_of_birth": "1946-07-04",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0008",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "VV",
+    "date_of_birth": "1969-09-27",
+    "gender": "Male",
+    "race": "Asian",
+    "ethnicity": "Unknown",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0009",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "ED",
+    "date_of_birth": "1952-01-17",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0010",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "AO",
+    "date_of_birth": "1990-08-17",
+    "gender": "Female",
+    "race": "Other",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0011",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "CS",
+    "date_of_birth": "1955-02-23",
+    "gender": "Female",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0012",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "YK",
+    "date_of_birth": "1955-07-20",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0013",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "EJ",
+    "date_of_birth": "1985-01-21",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Unknown",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0014",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "DZ",
+    "date_of_birth": "1946-02-08",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0015",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "FU",
+    "date_of_birth": "1961-02-13",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0016",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "OC",
+    "date_of_birth": "1952-09-05",
+    "gender": "Female",
+    "race": "White",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0017",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "JG",
+    "date_of_birth": "1986-01-19",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0018",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "OM",
+    "date_of_birth": "1960-10-11",
+    "gender": "Male",
+    "race": "Asian",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0019",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "JU",
+    "date_of_birth": "1985-11-09",
+    "gender": "Female",
+    "race": "Other",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0020",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "KR",
+    "date_of_birth": "1980-10-13",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0021",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "JB",
+    "date_of_birth": "1984-10-05",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0022",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "OT",
+    "date_of_birth": "1961-11-22",
+    "gender": "Male",
+    "race": "Asian",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0023",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "QA",
+    "date_of_birth": "1945-06-03",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0024",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "DO",
+    "date_of_birth": "1980-10-20",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0025",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "HT",
+    "date_of_birth": "1950-04-18",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Unknown",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0026",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "LN",
+    "date_of_birth": "1998-05-20",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0027",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "PT",
+    "date_of_birth": "1988-08-12",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0028",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "TR",
+    "date_of_birth": "1966-03-02",
+    "gender": "Female",
+    "race": "Other",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0029",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "PC",
+    "date_of_birth": "1998-03-18",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0030",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "WG",
+    "date_of_birth": "1953-05-09",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0031",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "KL",
+    "date_of_birth": "1986-11-28",
+    "gender": "Male",
+    "race": "Other",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0032",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "ED",
+    "date_of_birth": "1986-10-01",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0033",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "LI",
+    "date_of_birth": "1942-02-18",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0034",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "KR",
+    "date_of_birth": "1961-08-10",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0035",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "MB",
+    "date_of_birth": "1949-10-11",
+    "gender": "Female",
+    "race": "White",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0036",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "VF",
+    "date_of_birth": "1946-08-09",
+    "gender": "Female",
+    "race": "Other",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0037",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "SS",
+    "date_of_birth": "1985-07-27",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0038",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "VQ",
+    "date_of_birth": "1950-03-08",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0039",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "UR",
+    "date_of_birth": "1995-04-25",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0040",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "RM",
+    "date_of_birth": "1978-11-27",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0041",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "CV",
+    "date_of_birth": "1950-03-27",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0042",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "TG",
+    "date_of_birth": "1983-10-22",
+    "gender": "Female",
+    "race": "Other",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0043",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "GZ",
+    "date_of_birth": "1975-06-06",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0044",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "OI",
+    "date_of_birth": "1973-05-03",
+    "gender": "Male",
+    "race": "Asian",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital C"
+  },
+  {
+    "record_id": "PATIENT_0045",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "ZL",
+    "date_of_birth": "1995-01-16",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Unknown",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0046",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "MA",
+    "date_of_birth": "1994-11-12",
+    "gender": "Female",
+    "race": "Asian",
+    "ethnicity": "Not Hispanic or Latino",
+    "site": "Hospital B"
+  },
+  {
+    "record_id": "PATIENT_0047",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "TC",
+    "date_of_birth": "1991-09-25",
+    "gender": "Male",
+    "race": "Black",
+    "ethnicity": "Unknown",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0048",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "SH",
+    "date_of_birth": "1980-03-18",
+    "gender": "Male",
+    "race": "Asian",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0049",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "EG",
+    "date_of_birth": "1995-04-05",
+    "gender": "Female",
+    "race": "Black",
+    "ethnicity": "Hispanic or Latino",
+    "site": "Hospital A"
+  },
+  {
+    "record_id": "PATIENT_0050",
+    "redcap_event_name": "baseline_arm_1",
+    "patient_initials": "CN",
+    "date_of_birth": "1960-12-19",
+    "gender": "Male",
+    "race": "White",
+    "ethnicity": "Unknown",
+    "site": "Hospital C"
+  }
+]

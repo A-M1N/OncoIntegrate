@@ -1,0 +1,12 @@
+[
+  {
+    "record_id": "TEST_001",
+    "gender": "Female",
+    "date_of_birth": "1965-03-15"
+  },
+  {
+    "record_id": "TEST_002",
+    "gender": "Male",
+    "date_of_birth": "1958-11-02"
+  }
+]

@@ -1,0 +1,151 @@
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+}
+
+.card h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  color: #2c3e50;
+}
+
+.noData {
+  padding: 24px;
+  text-align: center;
+  color: #7f8c8d;
+  font-style: italic;
+  background: #f9f9f9;
+  border-radius: 6px;
+}
+
+.timeline {
+  position: relative;
+}
+
+.timelineItem {
+  border-left: 4px solid #3498db;
+  padding: 16px;
+  padding-left: 24px;
+  background: #f0f7ff;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  position: relative;
+  transition: all 0.2s;
+}
+
+.timelineItem:hover {
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.2);
+}
+
+.timelineItem::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 24px;
+  width: 12px;
+  height: 12px;
+  background: #3498db;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.itemHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+  gap: 16px;
+}
+
+.itemHeader h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  color: #2c3e50;
+}
+
+.dates {
+  font-size: 12px;
+  color: #7f8c8d;
+  margin: 0;
+}
+
+.response {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.responseCR {
+  background: #d5f4e6;
+  color: #27ae60;
+}
+.responsePR {
+  background: #d6eaf8;
+  color: #3498db;
+}
+.responseSD {
+  background: #fdeaa7;
+  color: #f39c12;
+}
+.responsePD {
+  background: #fadbd8;
+  color: #e74c3c;
+}
+
+.itemBody {
+  font-size: 14px;
+  color: #34495e;
+  margin-bottom: 12px;
+}
+
+.adverseSection {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #bdc3c7;
+}
+
+.adverseTitle {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  color: #e74c3c;
+}
+
+.adverseList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.adverseItem {
+  padding: 8px 0;
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.resolved {
+  background: #d5f4e6;
+  color: #27ae60;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.ongoing {
+  background: #fdeaa7;
+  color: #f39c12;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 11px;
+  white-space: nowrap;
+}
